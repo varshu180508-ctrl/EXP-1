@@ -57,12 +57,15 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
 
+
+ ![beee cal 1](https://github.com/user-attachments/assets/0dd5072d-4882-41bf-a9ce-6cafed042830)
 ![beee 1 6](https://github.com/user-attachments/assets/b4a73017-0b49-42c8-ba2b-8a97dcfde7d1)
 
 
 b.  KCL:
+
+
 ![beee 1 5](https://github.com/user-attachments/assets/bb145b41-f4a6-4b03-a925-9f6dc2df387e)
 
 ![beee 1 4](https://github.com/user-attachments/assets/d4171dff-8833-4371-940a-816640574dd1)
@@ -72,11 +75,15 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
+
  ![beee 1 3](https://github.com/user-attachments/assets/985eff24-0fe6-47a0-83e1-a47376639fe5)
 
 
 
 b.  KCL:
+
+
 
 ![beee tab 2](https://github.com/user-attachments/assets/ad283cbf-993b-4f15-952c-7c2cd010d6a1)
 
