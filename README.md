@@ -58,7 +58,7 @@ Calculation:
 
 a.   KVL:
  
-![beee 1 7](https://github.com/user-attachments/assets/bef0e42a-d278-43b1-b1a6-088898b42bdf)
+
 ![beee 1 6](https://github.com/user-attachments/assets/b4a73017-0b49-42c8-ba2b-8a97dcfde7d1)
 
 
@@ -78,7 +78,8 @@ a.   KVL:
 
 b.  KCL:
 
-![beee 1 2](https://github.com/user-attachments/assets/08196aa7-a6e4-4156-94a6-4b3ee9c3a019)
+![beee tab 2](https://github.com/user-attachments/assets/ad283cbf-993b-4f15-952c-7c2cd010d6a1)
+
 
 
 RESULT:
