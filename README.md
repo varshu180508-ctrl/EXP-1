@@ -66,7 +66,8 @@ a.   KVL:
 b.  KCL:
 
 
-![beee 1 5](https://github.com/user-attachments/assets/bb145b41-f4a6-4b03-a925-9f6dc2df387e)
+![beeeeeeeeeeeeeeeee](https://github.com/user-attachments/assets/739488fe-536a-44d5-869b-c2ba22941a34)
+
 
 ![beee 1 4](https://github.com/user-attachments/assets/d4171dff-8833-4371-940a-816640574dd1)
 
